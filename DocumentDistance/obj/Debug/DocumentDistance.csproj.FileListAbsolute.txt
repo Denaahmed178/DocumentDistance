@@ -1,0 +1,9 @@
+D:\Competition - Description_Template_TestCases\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\complete.txt
+D:\Competition - Description_Template_TestCases\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\Sample.txt
+D:\Competition - Description_Template_TestCases\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe.config
+D:\Competition - Description_Template_TestCases\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe
+D:\Competition - Description_Template_TestCases\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.pdb
+D:\Competition - Description_Template_TestCases\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.AssemblyReference.cache
+D:\Competition - Description_Template_TestCases\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.CoreCompileInputs.cache
+D:\Competition - Description_Template_TestCases\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.exe
+D:\Competition - Description_Template_TestCases\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.pdb
